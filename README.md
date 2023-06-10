@@ -4,4 +4,5 @@ From the SkillFactory DS course
 
 ## Projects
 
-* [Project 0. Game: Guess number](https://github.com/merrysam/SF_Data_Science/tree/main/project%200)
+* [Project 0. Game: Guess number](https://github.com/merrysam/Study/tree/main/project%200)
+* [Project 1. HeadHunter: CV's analysis](https://github.com/merrysam/Study/tree/main/Project_1)
