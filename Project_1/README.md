@@ -1,6 +1,7 @@
 # Проект 1. Анализ резюме из HeadHunter
 
-Для отображения графиков plotly используется [nbviewer](https://nbviewer.org/)
+Графики plotly лежат на гугл диске по [ссылке](https://drive.google.com/drive/folders/1Nd3T5Tgs8htCGnC3XVBeDQkRNdlU8q5t?usp=sharing).
+Через nbviewer не отображаются.
 
 ## Оглавление
 [1. Описание проекта](README.md#Описание-проекта)  
